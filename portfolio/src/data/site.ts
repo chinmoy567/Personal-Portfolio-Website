@@ -1,8 +1,8 @@
 export const site = {
   name: "Chinmoy Sarkar",
   shortName: "Chinmoy",
-  domain: "chinmaysarkar.com",
-  url: "https://chinmaysarkar.com",
+  domain: "chinmoysarkar.com",
+  url: "https://chinmoysarkar.com",
   title: "Backend & Cloud Engineer",
   headline: "Building scalable, maintainable, AI-integrated systems.",
   intro:
